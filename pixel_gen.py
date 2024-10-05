@@ -95,7 +95,6 @@ pixel_size = 10  # Adjust as necessary to increase pixel size
 color_tol = 50
 
 initial = 15 #setting the initial size reduction value
-combine = 3 #number of images to stack next to each other.
 check = 0 #counting for file output
 
 
